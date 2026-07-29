@@ -2,12 +2,17 @@
 <html lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>★ 4 starred paintings</title>
+<title>artwall - stars</title>
 <style>
 :root { color-scheme: light dark; --bg: #fbfbf9; --fg: #1a1a1a; --dim: #6b6b6b; }
 @media (prefers-color-scheme: dark) {
   :root { --bg: #16161a; --fg: #ececec; --dim: #8f8f96; }
 }
+/* On the root as well as the body. iOS paints the strip behind Safari's toolbar
+   and the home indicator from the *canvas* background, which comes from the root
+   element; a background set only on <body> leaves that strip Safari's own grey,
+   so a dark gallery ends in a pale band. Only a real phone shows this. */
+html { background: var(--bg); }
 body {
   margin: 0; padding: clamp(1.5rem, 6vw, 3rem) clamp(1rem, 5vw, 5rem);
   background: var(--bg); color: var(--fg);
@@ -24,6 +29,9 @@ h1 {
 }
 h1 a { color: var(--dim); text-decoration: none; font-size: .9rem; }
 h1 .spacer { flex: 1; }
+/* The published address. A URL is long and not the point of the heading, so it
+   sits quieter than the title and wraps rather than pushing anything sideways. */
+.published { font-family: ui-monospace, monospace; font-size: .8rem; overflow-wrap: anywhere; }
 /* Masonry, not a grid: paintings range from wide landscapes to tall portraits,
    and grid rows are as tall as their tallest cell — which strands short works in
    a pocket of whitespace. Columns let each tile take only the height it needs.
@@ -103,7 +111,13 @@ figcaption time { color: var(--dim); }
 .add input:focus-visible { outline: 2px solid var(--fg); outline-offset: -1px; }
 .danger { margin: 0; }
 .danger button { background: #a4302c; color: #fff; }
+
+/* Published page only: who made the thing you're looking at. Quiet, and clear of
+   the last row of paintings — a masonry's columns end at different heights, so it
+   needs real space above it rather than a hairline rule. */
+footer { margin: 3.5rem 0 0; color: var(--dim); font-size: .85rem; }
+footer a { color: inherit; }
 </style>
 <h1>★ 4 starred paintings</h1>
-<div class="grid" style="max-width: 1136px"><figure class=""><a class="art" href="images/Q20433666.jpg"><img src="thumbs/Q20433666.jpg" alt="Self-portrait with Portfolio" loading="lazy"></a><figcaption><b>Jens Juel</b><a class="title" href="https://en.wikipedia.org/wiki/Jens_Juel_(painter)" target="_blank" rel="noopener noreferrer">Self-portrait with Portfolio</a> <time>c. 1773</time></figcaption></figure><figure class=""><a class="art" href="images/Q20188566.jpg"><img src="thumbs/Q20188566.jpg" alt="Prairie Meadows Burning" loading="lazy"></a><figcaption><b>George Catlin</b><a class="title" href="https://en.wikipedia.org/wiki/George_Catlin" target="_blank" rel="noopener noreferrer">Prairie Meadows Burning</a> <time>1861</time></figcaption></figure><figure class=""><a class="art" href="images/M597279.jpg"><img src="thumbs/M597279.jpg" alt="Cornish Hills" loading="lazy"></a><figcaption><b>Willard Leroy Metcalf</b><a class="title" href="https://commons.wikimedia.org/wiki/File:Willard_Leroy_Metcalf_Cornish_Hills.jpg" target="_blank" rel="noopener noreferrer">Cornish Hills</a> <time>1911</time></figcaption></figure><figure class=""><a class="art" href="images/Q107045345.jpg"><img src="thumbs/Q107045345.jpg" alt="Fishing Village at Sunset" loading="lazy"></a><figcaption><b>Muqi</b><a class="title" href="https://en.wikipedia.org/wiki/Muqi" target="_blank" rel="noopener noreferrer">Fishing Village at Sunset</a> <time>13th century</time></figcaption></figure></div>
+<div class="grid" style="max-width: 1136px"><figure class=""><a class="art" href="images/Q20433666.jpg"><img src="thumbs/Q20433666.jpg" alt="Self-portrait with Portfolio" loading="lazy"></a><figcaption><b>Jens Juel</b><a class="title" href="https://en.wikipedia.org/wiki/Jens_Juel_(painter)" target="_blank" rel="noopener noreferrer">Self-portrait with Portfolio</a> <time>c. 1773</time></figcaption></figure><figure class=""><a class="art" href="images/Q20188566.jpg"><img src="thumbs/Q20188566.jpg" alt="Prairie Meadows Burning" loading="lazy"></a><figcaption><b>George Catlin</b><a class="title" href="https://en.wikipedia.org/wiki/George_Catlin" target="_blank" rel="noopener noreferrer">Prairie Meadows Burning</a> <time>1861</time></figcaption></figure><figure class=""><a class="art" href="images/M597279.jpg"><img src="thumbs/M597279.jpg" alt="Cornish Hills" loading="lazy"></a><figcaption><b>Willard Leroy Metcalf</b><a class="title" href="https://commons.wikimedia.org/wiki/File:Willard_Leroy_Metcalf_Cornish_Hills.jpg" target="_blank" rel="noopener noreferrer">Cornish Hills</a> <time>1911</time></figcaption></figure><figure class=""><a class="art" href="images/Q107045345.jpg"><img src="thumbs/Q107045345.jpg" alt="Fishing Village at Sunset" loading="lazy"></a><figcaption><b>Muqi</b><a class="title" href="https://en.wikipedia.org/wiki/Muqi" target="_blank" rel="noopener noreferrer">Fishing Village at Sunset</a> <time>13th century</time></figcaption></figure></div><footer>Starred with <a href="https://github.com/artemave/artwall" target="_blank" rel="noopener noreferrer">artwall</a></footer>
 </html>
