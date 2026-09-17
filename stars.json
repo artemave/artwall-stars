@@ -86,5 +86,37 @@
     "date": "1897",
     "image": "I haved\u00f8ren. Kunstnerens hustru.jpg",
     "url": "https://en.wikipedia.org/wiki/In_the_garden_door._The_artist%27s_wife"
+  },
+  {
+    "key": "Q2962671",
+    "artist": "Paul C\u00e9zanne",
+    "title": "Madame C\u00e9zanne in a Yellow Chair",
+    "date": "1888",
+    "image": "Paul C\u00e9zanne - Madame C\u00e9zanne in a Yellow Chair - 1948.54 - Art Institute of Chicago.jpg",
+    "url": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
+  },
+  {
+    "key": "Q20635123",
+    "artist": "James McNeill Whistler",
+    "title": "Nocturne in Blue and Silver: The Lagoon, Venice",
+    "date": "1879",
+    "image": "James Abbott McNeill Whistler - Nocturne in Blue and Silver- The Lagoon, Venice - Google Art Project.jpg",
+    "url": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+  },
+  {
+    "key": "Q60477894",
+    "artist": "Bian Shoumin",
+    "title": "Album of Calligraphy and Paintings",
+    "date": "1700",
+    "image": "Bian Shoumin - Album of Calligraphy and Paintings - 1999.260.d - Cleveland Museum of Art.tiff",
+    "url": "https://en.wikipedia.org/wiki/Bian_Shoumin"
+  },
+  {
+    "key": "Q18574208",
+    "artist": "Jean-Fran\u00e7ois Raffa\u00eblli",
+    "title": "Sailors from the North",
+    "date": "",
+    "image": "Sailors from the North (Jean-Fran\u00e7ois Raffaelli) - Nationalmuseum - 18519.tif",
+    "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Raffa%C3%ABlli"
   }
 ]
