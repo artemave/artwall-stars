@@ -120,14 +120,6 @@
     "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Raffa%C3%ABlli"
   },
   {
-    "key": "Q20268092",
-    "artist": "Georges Seurat",
-    "title": "Final Study for \"Bathers at Asni\u00e8res\"",
-    "date": "1883",
-    "image": "Georges Seurat - Final Study for \"Bathers at Asni\u00e8res\" - 1962.578 - Art Institute of Chicago.jpg",
-    "url": "https://en.wikipedia.org/wiki/Georges_Seurat"
-  },
-  {
     "key": "Q17340580",
     "artist": "Johan Hendrik Weissenbruch",
     "title": "",
@@ -142,5 +134,21 @@
     "date": "c. 1830",
     "image": "On the Bay of Naples C16036.jpg",
     "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Antoine_L%C3%A9on_Fleury"
+  },
+  {
+    "key": "Q15392270",
+    "artist": "Laurits Andersen Ring",
+    "title": "At Breakfast",
+    "date": "1898",
+    "image": "Laurits Andersen Ring - Ved frokostbordet og morgenaviserne.jpg",
+    "url": "https://en.wikipedia.org/wiki/L._A._Ring"
+  },
+  {
+    "key": "Q17334093",
+    "artist": "Kaspar Karsen",
+    "title": "Cityscape, Rijksmuseum",
+    "date": "1850",
+    "image": "Stadsgezicht Rijksmuseum SK-A-3243.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Kaspar_Karsen"
   }
 ]
