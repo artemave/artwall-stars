@@ -206,5 +206,53 @@
     "date": "1913",
     "image": "Lilla Cabot Perry, 1913 - The Green Hat.jpg",
     "url": "https://en.wikipedia.org/wiki/Lilla_Cabot_Perry"
+  },
+  {
+    "key": "Q20188770",
+    "artist": "Claude Monet",
+    "title": "The Bridge at Argenteuil",
+    "date": "1874",
+    "image": "Claude Monet - The Bridge at Argenteuil (1874) - NGA 1983.1.24.jpg",
+    "url": "https://en.wikipedia.org/wiki/Claude_Monet"
+  },
+  {
+    "key": "Q20269443",
+    "artist": "Claude Monet",
+    "title": "Water Lily Pond",
+    "date": "1900",
+    "image": "Claude Monet - Water Lily Pond - 1933.441 - Art Institute of Chicago.jpg",
+    "url": "https://en.wikipedia.org/wiki/Claude_Monet"
+  },
+  {
+    "key": "Q20278289",
+    "artist": "Johan Christian Dahl",
+    "title": "Winter Landscape near Vordingborg, Denmark",
+    "date": "1829",
+    "image": "J.C. Dahl - Winter Landscape near Vordingborg, Denmark - Google Art Project.jpg",
+    "url": "https://en.wikipedia.org/wiki/Johan_Christian_Dahl"
+  },
+  {
+    "key": "Q20188850",
+    "artist": "Pierre-Auguste Renoir",
+    "title": "Oarsmen at Chatou",
+    "date": "1879",
+    "image": "Pierre-Auguste Renoir 124.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
+  },
+  {
+    "key": "Q20268119",
+    "artist": "Pierre-Auguste Renoir",
+    "title": "Woman at the Piano",
+    "date": "1875",
+    "image": "Pierre-Auguste Renoir - Woman at the Piano - 1937.1025 - Art Institute of Chicago.jpg",
+    "url": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
+  },
+  {
+    "key": "Q20190161",
+    "artist": "Henry Moret",
+    "title": "The Island of Raguenez, Brittany",
+    "date": "1892",
+    "image": "The Island of Raguenez, Brittany G-001632-20120801.jpg",
+    "url": "https://en.wikipedia.org/wiki/Henry_Moret"
   }
 ]
