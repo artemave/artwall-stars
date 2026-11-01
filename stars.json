@@ -72,14 +72,6 @@
     "url": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
   },
   {
-    "key": "Q18602038",
-    "artist": "August Malmstr\u00f6m",
-    "title": "Kung Rings d\u00f6d (ur Frithiofs saga)",
-    "date": "1884",
-    "image": "August Malmstr\u00f6m - Kung Rings d\u00f6d (ur Frithiofs saga) - NM 7116 - Nationalmuseum.jpg",
-    "url": "https://en.wikipedia.org/wiki/August_Malmstr%C3%B6m"
-  },
-  {
     "key": "Q20537703",
     "artist": "Laurits Andersen Ring",
     "title": "At the French Windows. The Artist's Wife",
@@ -254,5 +246,45 @@
     "date": "1892",
     "image": "The Island of Raguenez, Brittany G-001632-20120801.jpg",
     "url": "https://en.wikipedia.org/wiki/Henry_Moret"
+  },
+  {
+    "key": "Q20440389",
+    "artist": "P. C. Skovgaard",
+    "title": "Beach at R\u00e5geleje",
+    "date": "1843",
+    "image": "PC Skovgaard, Strandbillede, R\u00e5geleje, 1843, KMS7213, Statens Museum for Kunst.jpg",
+    "url": "https://en.wikipedia.org/wiki/P._C._Skovgaard"
+  },
+  {
+    "key": "Q17331307",
+    "artist": "Jacob Maris",
+    "title": "A Polder Landscape after a Thunderstorm",
+    "date": "1892",
+    "image": "Polder na onweer Rijksmuseum SK-A-2987.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Jacob_Maris"
+  },
+  {
+    "key": "Q17322623",
+    "artist": "Anthonie van Borssom",
+    "title": "Moonlit landscape",
+    "date": "1650",
+    "image": "Landschap bij maneschijn Rijksmuseum SK-A-744.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Anthonie_van_Borssom"
+  },
+  {
+    "key": "Q20185817",
+    "artist": "J. M. W. Turner",
+    "title": "Keelmen Heaving in Coals by Moonlight",
+    "date": "1835",
+    "image": "Joseph Mallord William Turner - Keelmen Heaving in Coals by Moonlight - Google Art Project.jpg",
+    "url": "https://en.wikipedia.org/wiki/Keelmen_Heaving_in_Coals_by_Moonlight"
+  },
+  {
+    "key": "Q20088061",
+    "artist": "Camille Pissarro",
+    "title": "The Crystal Palace",
+    "date": "1871",
+    "image": "Camille Pissarro - Le Crystal Palace, Londres.jpg",
+    "url": "https://en.wikipedia.org/wiki/Camille_Pissarro"
   }
 ]
