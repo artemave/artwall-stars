@@ -286,5 +286,37 @@
     "date": "1871",
     "image": "Camille Pissarro - Le Crystal Palace, Londres.jpg",
     "url": "https://en.wikipedia.org/wiki/Camille_Pissarro"
+  },
+  {
+    "key": "Q17320344",
+    "artist": "Jacob van Ruisdael",
+    "title": "Winter Landscape",
+    "date": "1665",
+    "image": "Winterlandschap Rijksmuseum SK-A-349.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Jacob_van_Ruisdael"
+  },
+  {
+    "key": "Q17340776",
+    "artist": "Richard Roland Holst",
+    "title": "Orchard at Eemnes",
+    "date": "1891",
+    "image": "Boomgaard te Eemnes Rijksmuseum SK-A-4741.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Richard_Roland_Holst"
+  },
+  {
+    "key": "Q17324918",
+    "artist": "James McNeill Whistler",
+    "title": "Arrangement in Yellow and Gray: Effie Deans",
+    "date": "1876",
+    "image": "\u2018Arrangement in Yellow and Gray\u2019; Effie Deans Rijksmuseum SK-A-1902.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Effie_Deans_(painting)"
+  },
+  {
+    "key": "Q20189492",
+    "artist": "Georges Seurat",
+    "title": "Haymakers at Montfermeil",
+    "date": "c. 1882",
+    "image": "Haymakers at Montfermeil C16629.jpg",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat"
   }
 ]
