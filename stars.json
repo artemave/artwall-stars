@@ -64,14 +64,6 @@
     "url": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
   },
   {
-    "key": "Q20537703",
-    "artist": "Laurits Andersen Ring",
-    "title": "At the French Windows. The Artist's Wife",
-    "date": "1897",
-    "image": "I haved\u00f8ren. Kunstnerens hustru.jpg",
-    "url": "https://en.wikipedia.org/wiki/In_the_garden_door._The_artist%27s_wife"
-  },
-  {
     "key": "Q2962671",
     "artist": "Paul C\u00e9zanne",
     "title": "Madame C\u00e9zanne in a Yellow Chair",
@@ -110,14 +102,6 @@
     "date": "c. 1830",
     "image": "On the Bay of Naples C16036.jpg",
     "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Antoine_L%C3%A9on_Fleury"
-  },
-  {
-    "key": "Q15392270",
-    "artist": "Laurits Andersen Ring",
-    "title": "At Breakfast",
-    "date": "1898",
-    "image": "Laurits Andersen Ring - Ved frokostbordet og morgenaviserne.jpg",
-    "url": "https://en.wikipedia.org/wiki/L._A._Ring"
   },
   {
     "key": "Q17334093",
@@ -318,5 +302,29 @@
     "date": "1882",
     "image": "Vaart bij maanlicht Rijksmuseum SK-A-2465.jpeg",
     "url": "https://en.wikipedia.org/wiki/Jacob_Maris"
+  },
+  {
+    "key": "Q3224802",
+    "artist": "Rembrandt",
+    "title": "The Mill",
+    "date": "1645",
+    "image": "Rembrandt van Rijn - The Mill - Google Art Project.jpg",
+    "url": "https://en.wikipedia.org/wiki/The_Mill_(Rembrandt)"
+  },
+  {
+    "key": "Q20271473",
+    "artist": "Claude Monet",
+    "title": "V\u00e9theuil",
+    "date": "1901",
+    "image": "Monet - V\u00e9theuil, 1901.jpg",
+    "url": "https://en.wikipedia.org/wiki/Claude_Monet"
+  },
+  {
+    "key": "Q17334129",
+    "artist": "Matthijs Maris",
+    "title": "View of a town",
+    "date": "1861",
+    "image": "Gezicht op Lausanne II Rijksmuseum SK-A-3275.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Matthijs_Maris"
   }
 ]
