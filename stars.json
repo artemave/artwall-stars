@@ -326,5 +326,29 @@
     "date": "1861",
     "image": "Gezicht op Lausanne II Rijksmuseum SK-A-3275.jpeg",
     "url": "https://en.wikipedia.org/wiki/Matthijs_Maris"
+  },
+  {
+    "key": "Q18599133",
+    "artist": "Camille Pissarro",
+    "title": "Landscape from Pontoise",
+    "date": "1874",
+    "image": "Landscape from Pontoise (Camille Pissarro) - Nationalmuseum - 19146.tif",
+    "url": "https://en.wikipedia.org/wiki/Camille_Pissarro"
+  },
+  {
+    "key": "Q20191011",
+    "artist": "Paul C\u00e9zanne",
+    "title": "The Gardener Vallier",
+    "date": "1906",
+    "image": "Le Jardinier Vallier, par Paul C\u00e9zanne, Yorck.jpg",
+    "url": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
+  },
+  {
+    "key": "Q20771652",
+    "artist": "John Singer Sargent",
+    "title": "Edith, Lady Playfair (Edith Russell)",
+    "date": "1884",
+    "image": "John Singer Sargent - Edith, Lady Playfair (Edith Russell) - 33.530 - Museum of Fine Arts.jpg",
+    "url": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
   }
 ]
